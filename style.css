@@ -11,6 +11,12 @@ header{
     color: black;
 }
 
+.texto__cabecalho{
+    text-align: left;
+    font-weight: 700;
+
+}
+
 .carrossel {
     position: relative;
     width: 100%;

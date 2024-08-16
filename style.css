@@ -1,13 +1,13 @@
 /* styles.css */
 body {
-    background-color: rgb(255, 138, 249);
+    background-color: rgb(255, 225, 254);
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
 header{
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .carrossel {
